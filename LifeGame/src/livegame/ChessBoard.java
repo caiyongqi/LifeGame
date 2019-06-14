@@ -3,7 +3,6 @@ package livegame;
 import java.awt.Color;
 import java.util.Random;
 import javax.swing.JPanel;
-import javax.swing.text.AttributeSet.ColorAttribute;
 
 public class ChessBoard {
 	
